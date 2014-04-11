@@ -1,0 +1,21 @@
+{
+  "name": "sapui5_table_bug_sample",
+  "version": "0.0.1",
+  "main": "index.html",
+  "authors": [
+    "Michael Weber"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "openui5-bower": "~1.18.8"
+  }
+}

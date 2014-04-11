@@ -1,0 +1,23 @@
+{ "Products": [
+    {
+        "_id": "52c0a68a28cade8245e5d4b9",
+        "Name": "RAM",
+        "Price": 1000
+    },
+    {
+        "_id": "52d46c2217293bf75fc31ff4",
+        "Name": "Hard Disk",
+        "Price": 5000
+    },
+    {
+        "_id": "52c0a68a28cade8245e5d4b9",
+        "Name": "Mouse",
+        "Price": 1000
+    },
+    {
+        "_id": "52d46c2217293bf75fc31ff4",
+        "Name": "Keyboard",
+        "Price": 5000
+    }
+]
+}
